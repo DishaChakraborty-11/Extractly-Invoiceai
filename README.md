@@ -1,4 +1,3 @@
-# Extractly-Invoiceai
 # Extractly — AI Invoice Expense Tracker 🧾
 
 > Upload any invoice or receipt. AI extracts vendor, date & amount instantly.
